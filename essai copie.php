@@ -1,1 +1,2 @@
-<?php echo "essai copie"; ?>
+<?php echo "essai copie"; 
+echo "essai copie 2ème ligne"?>
